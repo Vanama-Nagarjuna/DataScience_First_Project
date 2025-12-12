@@ -1,6 +1,5 @@
+joblib
+streamlit
 numpy
 pandas
 scikit-learn
-streamlit
-joblib
-pickle-mixin
